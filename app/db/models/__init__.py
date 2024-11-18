@@ -1,0 +1,2 @@
+class Base:
+    metaData = None
